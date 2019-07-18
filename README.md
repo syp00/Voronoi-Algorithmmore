@@ -16,5 +16,5 @@
       putpixel((x, y), (nr[j], ng[j], nb[j]))
 
     for i in range(22): # 추가
-      image.putpixel((nx[i], ny[i]), (255, 255, 255)) # 색상값 변경 가믕
+      image.putpixel((nx[i], ny[i]), (255, 255, 255)) # 색상값 변경 가능
 ```
